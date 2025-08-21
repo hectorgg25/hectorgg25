@@ -36,6 +36,6 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado, incluye
  **Pruebas de aplicaciones móviles**: 
  * 🔍[Diseño de Pruebas e Informe de errores](https://docs.google.com/spreadsheets/d/1vhM-8yc08VuSy0WtSVAS5o69FEFPy5VI?rtpof=true&usp=drive_fs)
 
- **Pruebas de aplicaciones móviles**: 
- * 🔍[Diseño de Pruebas e Informe de errores](https://docs.google.com/spreadsheets/d/1vhM-8yc08VuSy0WtSVAS5o69FEFPy5VI?rtpof=true&usp=drive_fs)
+ **Bases de datos**: 
+ * 🔍[Diseño de Pruebas](https://docs.google.com/document/d/1_bnsUho_VOJYdWpZ9nTX8IBi-vBx3Naw?rtpof=true&usp=drive_fs)
    
