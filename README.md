@@ -26,14 +26,16 @@ Es una excelente opción para mí, dado mi amplia experiencia de más de 17 año
 
 Aquí puedes encontrar algunos de los proyectos en los que he trabajado, incluyendo **diseño de pruebas** y **reportes de errores**
 
- **Funcionalidad de Aplicación de Movilidad**:
- * 🔍[Diseño de Pruebas](https://docs.google.com/spreadsheets/d/1A6enqOCwikmlw718bljWba2zT_1boqS_/edit?usp=drive_link&ouid=108366260182891958648&rtpof=true&sd=true)
- * 📊[Informe de Errores](https://drive.google.com/file/d/1OUeop5e_QYaRAv2yf0OKARn6xpKQl2kV/view?usp=drive_link)
+ **Pruebas de aplicaciones web**:
+ * 🔍[Diseño de Pruebas](https://docs.google.com/spreadsheets/d/1kaVgw1_g3MhyRW8GaE2xXSUwOJy2PYnU?rtpof=true&usp=drive_fs)
+ * 📊[Informe de Errores](https://docs.google.com/document/d/18XZhU171jyQMTVW0kd9epiawmNAGuKpm?rtpof=true&usp=drive_fs)
 
- **Pruebas API Aplicación de Servicio de Domicilios**:
- * 🔍[Diseño de Pruebas](https://docs.google.com/spreadsheets/d/1mjiC1Mf6vEe9gWEbK5_q8X9UzYs1VCbR/edit?usp=drive_link&ouid=108366260182891958648&rtpof=true&sd=true)
- * 📊[Informe de Errores](https://drive.google.com/file/d/1pwz1jOWmnkmwYeYV_YAv6BcivMiOdgCO/view?usp=drive_link)
+ **Pruebas de API**:
+ * 🔍[Diseño de Pruebas e Informe de errores](https://docs.google.com/spreadsheets/d/1h7UZ6EiIQ1UozaT-cMKwvSUVQ9K6aeLW?rtpof=true&usp=drive_fs)
 
  **Pruebas de aplicaciones móviles**: 
- * 🔍[Diseño de Pruebas](https://docs.google.com/spreadsheets/d/1-ZH5x-bvhy-EiYQKTh6NnkYr2VRhj86G/edit?usp=drive_link&ouid=108366260182891958648&rtpof=true&sd=true)
- * 📊[Informe de Errores](https://drive.google.com/file/d/1pS92i4BrNt4y3M9WI_Q_4Q2HdjUPzV7U/view?usp=drive_link)
+ * 🔍[Diseño de Pruebas e Informe de errores](https://docs.google.com/spreadsheets/d/1vhM-8yc08VuSy0WtSVAS5o69FEFPy5VI?rtpof=true&usp=drive_fs)
+
+ **Pruebas de aplicaciones móviles**: 
+ * 🔍[Diseño de Pruebas e Informe de errores](https://docs.google.com/spreadsheets/d/1vhM-8yc08VuSy0WtSVAS5o69FEFPy5VI?rtpof=true&usp=drive_fs)
+   
